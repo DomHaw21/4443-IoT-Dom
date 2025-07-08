@@ -1,4 +1,4 @@
-## 4443-IoT-Dom
+## Dominique Hawkins
 #### Repo: 4443-IoT-Dom
 #### Email: domhaw1242@gmail.com
 #### Img:
