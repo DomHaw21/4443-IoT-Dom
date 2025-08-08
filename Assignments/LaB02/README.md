@@ -19,7 +19,7 @@ The purpose of this lab is to get behind the basics of soldering, sensor control
 - Also able to properly solder components to a pcb board.
 
 ## Files
-[LaB02ino]()
+[LaB02ino](https://github.com/DomHaw21/4443-IoT-Dom/blob/main/Assignments/LaB02/LaB02.ino)
 
 ## Image
 ![IMG_4705](https://github.com/user-attachments/assets/0e6fbdc6-64d3-4101-b5b3-766778136931)
