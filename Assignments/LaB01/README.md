@@ -17,7 +17,7 @@ The purpose of this lab is to get the basics of wiring and understanding of sync
 - Understood how resistors effect the output of brightness
 
 ## Files
-[LaB01INO]()
+[LaB01ino](https://github.com/DomHaw21/4443-IoT-Dom/blob/main/Assignments/LaB01/LaB01.ino)
 
 ## Image
 <img width="1284" height="1284" alt="IMG_4784" src="https://github.com/user-attachments/assets/3e5097bc-4118-444c-ab5b-8a0d15e0e4c4" />
