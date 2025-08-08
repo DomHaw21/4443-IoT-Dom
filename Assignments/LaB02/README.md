@@ -18,5 +18,6 @@ The purpose of this lab is to get behind the basics of soldering, sensor control
 - Was able to make LED zones based on proximity, and so the closer an object got, the more LED zones light up from red being close and green being far.
 ## Image
 ![IMG_4705](https://github.com/user-attachments/assets/0e6fbdc6-64d3-4101-b5b3-766778136931)
+![IMG_4733](https://github.com/user-attachments/assets/83311160-e4ab-4cd7-9dd4-e8d5dfb6ec72)
 
 
