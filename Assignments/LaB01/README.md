@@ -17,5 +17,5 @@ The purpose of this lab is to get the basics of wiring and understanding of sync
 - Understood how resistors effect the output of brightness
 
 ## Files
-- [image](<img width="1284" height="1284" alt="IMG_4784" src="https://github.com/user-attachments/assets/91296a27-d1b8-4a19-a92e-b4926b38a067" />
-)
+- <img width="1284" height="1284" alt="IMG_4784" src="https://github.com/user-attachments/assets/3e5097bc-4118-444c-ab5b-8a0d15e0e4c4" />
+
