@@ -5,16 +5,3 @@
 ![MEE](https://avatars.githubusercontent.com/u/122930741?v=4)
 #### Avatar:
 ![Avatar](https://user-images.githubusercontent.com/111944626/186937368-6809ad5a-9fa8-44e5-8f1d-384e9f4c313d.png)
-├── Assignments/
-│   ├── A01/
-│   │   ├── README.md
-│   │   ├── main.cpp (or .py, etc.)
-│   ├── A02/
-│   │   ├── README.md
-│   │   ├── ...
-│   └── ...
-├── Labs/
-│   ├── lab1-IOT/
-│   ├── lab2-iot/
-│   └── ...
-└── README.md
